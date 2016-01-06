@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Using Javascript</title>
+    <link rel="stylesheet" href="starterpage.css">
+    <script src="starterpage.js"></script>
+  </head>
+  <body>
+    <h1>My first HTML building experience</h1> 
+    <p>I am loving it</p>
+    </button>
+  </body>
+</html>
